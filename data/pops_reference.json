@@ -1,0 +1,42 @@
+[
+  {
+    "code": "LHR1",
+    "city": "London",
+    "region": "EMEA"
+  },
+  {
+    "code": "DUB1",
+    "city": "Dublin",
+    "region": "EMEA"
+  },
+  {
+    "code": "FRA2",
+    "city": "Frankfurt",
+    "region": "EMEA"
+  },
+  {
+    "code": "AMS3",
+    "city": "Amsterdam",
+    "region": "EMEA"
+  },
+  {
+    "code": "JFK1",
+    "city": "New York",
+    "region": "AMER"
+  },
+  {
+    "code": "ORD2",
+    "city": "Chicago",
+    "region": "AMER"
+  },
+  {
+    "code": "SIN1",
+    "city": "Singapore",
+    "region": "APAC"
+  },
+  {
+    "code": "NRT2",
+    "city": "Tokyo",
+    "region": "APAC"
+  }
+]

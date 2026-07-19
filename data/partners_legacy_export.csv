@@ -1,0 +1,21 @@
+partner_id,partner_name,partner_type,region,primary_pop,status,onboarded_date,renewal_date
+P1001,Meridian Networks,ISP,EMEA,DUB1,Active,2025-05-26,2027-03-07
+P1002,Vantage Fiber,ISP,EMEA,AMS3,Active,2024-11-30,2027-05-01
+P1003,NorthBridge Connect,ISP,EMEA,DUB1,Under Review,2025-10-24,2027-02-08
+P1004,Halcyon IP Transit,ISP,EMEA,LHR1,Active,2025-03-29,2027-03-05
+P1005,Coastal Peering Co,ISP,EMEA,LHR1,Under Review,2025-03-09,2027-05-06
+P1006,Arcline Telecom,ISP,APAC,SIN1,Active,2025-11-20,2027-04-20
+P1007,Redstone DC,Colocation,AMER,JFK1,Active,2025-01-28,2027-05-04
+P1008,Ironwood Colo,Colocation,APAC,SIN1,Active,2025-05-29,
+P1009,Beacon Data Centers,Colocation,EMEA,AMS3,Active,2024-11-30,2027-02-15
+P1010,Granite Peering Hub,Colocation,APAC,SIN1,Active,2025-08-20,2027-03-20
+P1011,Lakeside Colocation,Colocation,AMER,JFK1,Active,2025-12-01,2027-04-13
+P1012,Crestpoint Systems,Hardware Vendor,EMEA,DUB1,Pending Onboarding,2024-11-06,2027-04-15
+P1013,Wavefront Networking,Hardware Vendor,AMER,JFK1,Under Review,2025-08-23,2027-04-18
+P1014,Solstice Hardware,Hardware Vendor,EMEA,AMS3,Active,2024-10-03,2027-04-29
+P1015,Talon Optics,Hardware Vendor,EMEA,AMS3,Active,2024-11-07,2027-03-05
+P1016,Pinnacle Managed IT,MSP,EMEA,DUB1,Pending Onboarding,2025-05-29,2027-04-03
+P1017,Clearview Ops,MSP,AMER,ORD2,Active,2025-09-01,2027-03-21
+P1018,Fieldstone MSP,MSP,EMEA,AMS3,Active,2026-06-12,2027-02-13
+P1019,Trueline Support,MSP,EMEA,FRA2,Under Review,2025-04-25,2027-02-24
+P9999,HALCYON IP TRANSIT  ,ISP,EMEA,LHR1,Active,2025-03-29,2027-03-05
